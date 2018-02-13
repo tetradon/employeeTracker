@@ -1,0 +1,36 @@
+.input-form{
+    width: 60%;
+    margin: 1.5em auto 0;
+}
+
+
+
+.inline{
+    display: inline;
+}
+
+.top-bar, .profile-info{
+    margin: 1.4em 0;
+}
+
+html{
+    margin-top: 1.5em;
+
+}
+
+body{
+    padding-bottom: 50px;
+}
+
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.error{
+    color: red;
+}
+
+
