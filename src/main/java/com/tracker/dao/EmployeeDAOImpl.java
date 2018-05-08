@@ -13,7 +13,7 @@ import java.util.List;
 @Repository
 public class EmployeeDAOImpl implements EmployeeDAO {
 
-    private final SessionFactory sessionFactory; //injecting the "sessionFactory" bean defined xml
+    private final SessionFactory sessionFactory; 
 
     @Autowired
     public EmployeeDAOImpl(SessionFactory sessionFactory) {
